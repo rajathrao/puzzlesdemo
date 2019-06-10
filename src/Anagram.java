@@ -50,7 +50,8 @@ public class Anagram {
 	
 		Anagram a = new Anagram();
 		//System.out.println(a.isAnagram());
-		System.out.println(a.isAnagrams("mary", "yram"));;
+		System.out.println(a.isAnagrams("mary", "yram"));
+		System.out.println("Hi please ceheck");
 		
 	}
 }
